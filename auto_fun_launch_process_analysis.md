@@ -12,7 +12,7 @@ During the recent DoglifeAI token launch:
 ## Current Process Vulnerability
 
 <p align="center">
-<img src="https://mermaid.ink/img/pako:eNp9ktuOmzAQhl9l5N6SKBBywBeVEmClldLdKPQgbdgLB0ywYmxkG3XTkHevE3LqXnSQ0Hj8zT_jsQ8okzlFGG0VqUtYrFIB1jJOtI5oAbWSG04rKBjn-EtRZNYcbZTc0dNyYM3JJJcKbzjJdpet3m-WmxJ79ccnOSFVRfhVLTh9N7XgbI9qn5Jzysn-1gml_3QSBP_rxL120v1n6yVRRlAFEa253Gv4blnxDr3e1zYxtAa3hfkN-kWY0e9d6vzM_KjBSBhBxURjqG4hvMEJFbmGcHbhw7um10K0njVG9otGwE-qWMHotXRHR3d62EK8XpBGZCUktTScbUsDS6kNzS90fKf9Fp7WMyGk5WlFhdHABERMZ1Jd8Ydx2mNcbvYxOHMiJ3aeLrf0uBN2w09FF9TNpnsvKVquXueL-Bu8vb7EGJ5fkucoXiUp6sDzxO5u2Ll2QsixL47lCBvVUAdV1FY8LdHhhKTIlPYUKcLWzYnanfSONqcm4k3K6pqmZLMtES4I13bV1DkxNGLE9lbdospWoyq0gzEIu8OzBsIH9IGwP-oHo_F45E29wcj3xxMH7W10GPSn3tQfT13XD_zx0UF_zjXdvjeY-p5rdyZDf+K73vEvyx0Fyg?type=png" width="90%" alt="Current Process">
+<img src="https://mermaid.ink/img/pako:eNp9ktuOmzAQhl9l5N6SKBBywBeVEmClldLdKPQgbdgLB0ywYmxkG3XTkHevE3LqXnSQ0Hj8zT_jsQ8okzlFGG0VqUtYrFIB1jJOtI5oAbWSG04rKBjn-EtRZNYcbZTc0dNyYM3JJJcKbzjJdpet3m-WmxJ79ccnOSFVRfhVLTh9N7XgbI9qn5Jzysn-1gml_3QSBP_rxL120v1n6yVRRlAFEa253Gv4blnxDr3e1zYxtAa3hfkN-kWY0e9d6vzM_KjBSBhBxURjqG4hvMEJFbmGcHbhw7um10K0njVG9otGwE-qWMHotXRHR3d62EK8XpBGZCUktTScbUsDS6kNzS90fKf9Fp7WMyGk5WlFhdHABERMZ1Jd8Ydx2mNcbvYxOHMiJ3aeLrf0uBN2w09FF9TNpnsvKVquXueL-Bu8vb7EGJ5fkucoXiUp6sDzxO5u2Ll2QsixL47lCBvVUAdV1FY8LdHhhKTIlPYUKcLWzYnanfSONqcm4k3K6pqmZLMtES4I13bV1DkxNGLE9lbdospWoyq0gzEIu8OzBsIH9IGwP-oHo_F45E29wcj3xxMH7W10GPSn3tQfT13XD_zx0UF_zjXdvjeY-p5rdyZDf-K73vEvyx0Fyg?type=png" width="100%" style="min-width:1000px; max-width:1500px;" alt="Current Process">
 </p>
 
 - 5-minute window between launch and verification creates opportunity for unfair early entry
@@ -22,7 +22,7 @@ During the recent DoglifeAI token launch:
 ## Proposed Solution: Pre-Launch Contract Verification
 
 <p align="center">
-<img src="https://mermaid.ink/img/pako:eNpdUkuP2jAQ_isj7zUgJ4SF-FAJElZaaQ-oVK1U2IPXmRCLxI5sR90t4b_XJLxUW_JrvsfY4yMROkfCyN7wpoS37zsFvomKW5thAVZXrZNaQSGrij0JURRCBNYZfUD2RCnnlAZCV9qwj4qLwyU0-iNzV7Ko-fxPT2lT8-qiViTnflNL-vaoNpCHcbFdc-MUGtiU3KCFdAFLLLRBeOOtEuU7jEbfuo3DBsIOlttF6_S4aBWsDTY94ycaWUjBzxd6H1SXd1LUQXrzyLCp9JeFHz6zKzbtsa91jbnkDjvI7h6DtPf4JV0pFUwobFBoldsLObsbTTpYbYecYdNoV8l96WCtrcP8gl7d0XEHL9uFUtrjsUblLHj9TFqhzRX-8MiwCJZBdqvbYyQNVsHLpQIk8BWXOWHOtBiQGv3heUuOZ8aOuNJ77Qjzy5ybw47s1MlzGq5-a11faUa3-5KwglfW79om98-SSe7_Un07NahyNKlP3xE2iaa9CGFH8klYOB8n81kyj6I4pmE09cEvwvw8niU0DsP5LJyGURydAvK3t6Xj5Hke02cahdNkSmk4Of0DThvhrw?type=png" width="90%" alt="Pre-Launch Verification">
+<img src="https://mermaid.ink/img/pako:eNpdUkuP2jAQ_isj7zUgJ4SF-FAJElZaaQ-oVK1U2IPXmRCLxI5sR90t4b_XJLxUW_JrvsfY4yMROkfCyN7wpoS37zsFvomKW5thAVZXrZNaQSGrij0JURRCBNYZfUD2RCnnlAZCV9qwj4qLwyU0-iNzV7Ko-fxPT2lT8-qiViTnflNL-vaoNpCHcbFdc-MUGtiU3KCFdAFLLLRBeOOtEuU7jEbfuo3DBsIOlttF6_S4aBWsDTY94ycaWUjBzxd6H1SXd1LUQXrzyLCp9JeFHz6zKzbtsa91jbnkDjvI7h6DtPf4JV0pFUwobFBoldsLObsbTTpYbYecYdNoV8l96WCtrcP8gl7d0XEHL9uFUtrjsUblLHj9TFqhzRX-8MiwCJZBdqvbYyQNVsHLpQIk8BWXOWHOtBiQGv3heUuOZ8aOuNJ77Qjzy5ybw47s1MlzGq5-a11faUa3-5KwglfW79om98-SSe7_Un07NahyNKlP3xE2iaa9CGFH8klYOB8n81kyj6I4pmE09cEvwvw8niU0DsP5LJyGURydAvK3t6Xj5Hke02cahdNkSmk4Of0DThvhrw?type=png" width="100%" style="min-width:1000px; max-width:1500px;" alt="Pre-Launch Verification">
 </p>
 
 ### Key Process Changes:
@@ -40,7 +40,7 @@ During the recent DoglifeAI token launch:
 ### Auto.fun-Managed Deployment
 
 <p align="center">
-<img src="https://mermaid.ink/img/pako:eNqVkk2PmzAQQP-K5ZV6IhFfG8CHSknYVSvtIepWPTTZg2sPwYqxkTHb3Yb895rABtRbjUCYmfcGjeeMmeaACT4aWpfo6dtBIbeYpE2TQ4EaLVsrtEKFkJLcMVYUjHmNNfoE5M73KfV9j2mpDfklKTuNocVvwW1JwvrtH18pjqV0t70JwSlnwtXK-f9DqLSpqBxtRdZfN1t2XXPbAA_P9T6HV5C6BoN2Rr8KDg367kCFdtTQCiyY5gUtFp-7Zws1Cjq02a9bq5dF61IM1NTciK1W1lBmXwb3ZsLCDm0nLIda6vcP6hP6QhWXzvIDjCgEo32vR8f26vhaVcAFtdChfD9QoumrLwYEOFpb9ERbxcoRzKfiUYce9kMQPdfaDq3f6cYCH7Mfpuy4Q4-zplyruV81VDUFGHNDZkeA1uMJzL9tvK2X30ZnHnmcBgB7buYEx8SaFjxcgbP0W3zugQO2JVRwwMS9cmpOB3xQF8fUVP3UuvrAjG6PJSYFlY3btTV3ncoFddM8pYDiYLa6VRaTYBVfHZic8RsmiyBcrrL7MMiSOEqTOEsjD79jEmXJMkiT-zjKwlUSB8nFw3-uZf1llvhZFqRhnIZRkkaXv9T5ECU?type=png" width="90%" alt="Auto.fun Deployment">
+<img src="https://mermaid.ink/img/pako:eNqVkk2PmzAQQP-K5ZV6IhFfG8CHSknYVSvtIepWPTTZg2sPwYqxkTHb3Yb895rABtRbjUCYmfcGjeeMmeaACT4aWpfo6dtBIbeYpE2TQ4EaLVsrtEKFkJLcMVYUjHmNNfoE5M73KfV9j2mpDfklKTuNocVvwW1JwvrtH18pjqV0t70JwSlnwtXK-f9DqLSpqBxtRdZfN1t2XXPbAA_P9T6HV5C6BoN2Rr8KDg367kCFdtTQCiyY5gUtFp-7Zws1Cjq02a9bq5dF61IM1NTciK1W1lBmXwb3ZsLCDm0nLIda6vcP6hP6QhWXzvIDjCgEo32vR8f26vhaVcAFtdChfD9QoumrLwYEOFpb9ERbxcoRzKfiUYce9kMQPdfaDq3f6cYCH7Mfpuy4Q4-zplyruV81VDUFGHNDZkeA1uMJzL9tvK2X30ZnHnmcBgB7buYEx8SaFjxcgbP0W3zugQO2JVRwwMS9cmpOB3xQF8fUVP3UuvrAjG6PJSYFlY3btTV3ncoFddM8pYDiYLa6VRaTYBVfHZic8RsmiyBcrrL7MMiSOEqTOEsjD79jEmXJMkiT-zjKwlUSB8nFw3-uZf1llvhZFqRhnIZRkkaXv9T5ECU?type=png" width="100%" style="min-width:1000px; max-width:1500px;" alt="Auto.fun Deployment">
 </p>
 
 - **Auto.fun Deployment Service**
@@ -58,7 +58,7 @@ During the recent DoglifeAI token launch:
 ## Impact Analysis
 
 <div align="center">
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse:collapse; width:90%; max-width:800px; margin:20px auto; text-align:center; border-color:#333;">
+<table border="1" cellpadding="12" cellspacing="0" style="border-collapse:collapse; width:100%; max-width:1200px; margin:20px auto; text-align:center; border-color:#333; font-size:16px;">
   <tr style="background-color:#333; color:white; font-weight:bold;">
     <th style="border-color:#333;">Feature</th>
     <th style="border-color:#333; background-color:#993333;">Current Process</th>
